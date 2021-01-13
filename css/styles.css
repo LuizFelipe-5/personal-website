@@ -189,6 +189,11 @@ a:hover {
   text-align: center;
 }
 
+#excecao {
+  object-fit: contain !important;
+  padding-left: 60px;
+}
+
 .img-portfolio {
   height: 180px;
   width: 100%;
@@ -196,6 +201,8 @@ a:hover {
   object-position: left bottom;
   transition: transform 500ms;
 }
+
+
 
 /* .img-portfolio:hover {
   transform: scale(1.2) rotate(-2deg);
@@ -223,6 +230,7 @@ a:hover {
   position: absolute;
   top: 0;
   width: 100%;
+  padding-left: 10px;
 }
 
 .back-card {

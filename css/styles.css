@@ -111,7 +111,7 @@ a:hover {
 .sobre,
 .contato,
 .portfolio {
-  padding: 2em;
+  padding: 4rem 2em 2em 2em;
   min-height: 100vh;
 }
 
